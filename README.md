@@ -1,1 +1,5 @@
-# theF2E-filter
+## Getting Started
+```
+npm i
+npm start
+```
