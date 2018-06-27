@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 
+import Counter from '../../components/Counter/Counter';
 
 class Home extends Component {
   render() {
     return (
       <div id="app">
-        Hello React
+        <Counter />
       </div>
     );
   }
