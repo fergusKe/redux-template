@@ -16,3 +16,7 @@
 
 // Custom Style
 // @import './components/header';
+
+@import '../../node_modules/bootstrap/scss/_functions.scss';
+@import './helpers/_variables';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
